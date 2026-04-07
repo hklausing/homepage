@@ -43,6 +43,10 @@ next-env.d.ts
 # homepage
 /config
 
+# Avoid image and icon extensions added to repo
+/public/images
+/public/icons
+
 # IDEs
 /.idea/
 
